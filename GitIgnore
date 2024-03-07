@@ -1,0 +1,4 @@
+Create a .gitignore file inside
+git status
+copy files name you want to ignore
+and add into .gitignore file
